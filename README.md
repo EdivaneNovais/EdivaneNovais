@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá! Sou a Edivane Novais, bem vindo ao meu Github
 
-<!--
-**EdivaneNovais/EdivaneNovais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📗Estudante de Desenvolvimento Backend.
 
-Here are some ideas to get you started:
+📝Sou formada em Odontologia e estou em processo de transição de carreira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⌨ Linguagens / Tecnologias:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+📲 Contatos:
+
+<a href="https://www.linkedin.com/in/edivane-novais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+          
+          
